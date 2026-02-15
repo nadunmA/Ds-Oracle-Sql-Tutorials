@@ -1,8 +1,3 @@
--- IT23192850
--- Nadun M.A
--- WE 4.2
--- Practical 3
-
 create type address_t as object (
     
     streetno VARCHAR2(10),
